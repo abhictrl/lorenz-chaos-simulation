@@ -96,9 +96,6 @@ Forward Euler blows up at Δt = 0.1. Even stable runs disagree after a few time 
 
 Python · NumPy · Matplotlib · Pillow
 
-## Live Demo
-
-[https://abhictrl.github.io/lorenz-chaos-simulation/](https://abhictrl.github.io/lorenz-chaos-simulation/)
 
 ## License
 
